@@ -1,5 +1,5 @@
 plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.5.0"
 }
-rootProject.name = "alcosi-identity-server-communication"
+rootProject.name = "alcosi-identity-server-communication-error-parser"
 
